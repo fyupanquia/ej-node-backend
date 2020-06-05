@@ -1,0 +1,14 @@
+this
+is
+an
+example
+for
+file
+exercises
+you
+should
+execute
+the
+following
+command
+node {async/sync}.js example.txt
